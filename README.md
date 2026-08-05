@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sakshi-Nande/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sakshi-Nande/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Sakshi-Nande/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Sakshi-Nande/Leetcode/tree/master/0136-single-number) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sakshi-Nande/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Sakshi-Nande/Leetcode/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sakshi-Nande/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
